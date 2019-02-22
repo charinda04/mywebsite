@@ -1,14 +1,14 @@
 {
-  "main.css": "/charinda04.github.io/static/css/main.ab26b4dd.chunk.css",
-  "main.js": "/charinda04.github.io/static/js/main.0e7f3e20.chunk.js",
-  "main.js.map": "/charinda04.github.io/static/js/main.0e7f3e20.chunk.js.map",
-  "runtime~main.js": "/charinda04.github.io/static/js/runtime~main.0b46b237.js",
-  "runtime~main.js.map": "/charinda04.github.io/static/js/runtime~main.0b46b237.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/charinda04.github.io/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/charinda04.github.io/static/js/2.5bf9b2cd.chunk.js.map",
-  "index.html": "/charinda04.github.io/index.html",
-  "precache-manifest.191df6d80e11dbd950dfffa935031de9.js": "/charinda04.github.io/precache-manifest.191df6d80e11dbd950dfffa935031de9.js",
-  "service-worker.js": "/charinda04.github.io/service-worker.js",
-  "static/css/main.ab26b4dd.chunk.css.map": "/charinda04.github.io/static/css/main.ab26b4dd.chunk.css.map",
-  "static/media/logo.svg": "/charinda04.github.io/static/media/logo.5d5d9eef.svg"
+  "main.css": "/static/css/main.ab26b4dd.chunk.css",
+  "main.js": "/static/js/main.c0fc6a5c.chunk.js",
+  "main.js.map": "/static/js/main.c0fc6a5c.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.5bf9b2cd.chunk.js": "/static/js/2.5bf9b2cd.chunk.js",
+  "static/js/2.5bf9b2cd.chunk.js.map": "/static/js/2.5bf9b2cd.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.686e9d93f01d80656d9b95c05d64c4dc.js": "/precache-manifest.686e9d93f01d80656d9b95c05d64c4dc.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.ab26b4dd.chunk.css.map": "/static/css/main.ab26b4dd.chunk.css.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
 }
