@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "landing",
   "version": "0.1.0",
   "private": true,
@@ -8,17 +7,6 @@
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.5"
   },
-=======
-  "name": "website",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "gh-pages": "^2.0.1",
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
-  },
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
